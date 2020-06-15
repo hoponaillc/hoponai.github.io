@@ -22,7 +22,7 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: Your Virtual Assistant At Your Service
+    title: At Your Service
     services:
       - title: Facebook Messenger
         text: Our templates are updated regularly so they don't break.
