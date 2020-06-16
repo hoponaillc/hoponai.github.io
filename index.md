@@ -3,7 +3,7 @@ layout: home
 header:
   title: Your virtual assistant to help your business in Social Platforms.
   text: >
-    An AI powered virtual assistant solution to start and grow your business using Whatsapp for Business and Facebook Messenger for small and medium business!
+    An AI powered virtual assistant solution to start and grow your business using Facebook Messenger, Instagram and Whatsapp for Business for small and medium business!
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -13,7 +13,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    text: Regardless of your business type to sell products or services, your virtual assistant has the skills and capabilities to automate your customer interaction.
     actions:
       - title: Get Started!
         url: '#page-top'
@@ -25,20 +25,20 @@ sections:
     title: At Your Service
     services:
       - title: Facebook Messenger
-        text: Our templates are updated regularly so they don't break.
+        text: Reach more than 1.69 billion users.
         icon: fa-facebook-messenger
         url: https://startbootstrap.com/
       - title: Instagram
-        text: You can use this theme as is, or you can make changes!
+        text: Reach more than 112 million users.
         icon: fa-instagram
       - title: Whatsapp
-        text: We update dependencies to keep things fresh.
+        text: 2 billion registered users!
         icon: fa-whatsapp-square 
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
+      Ready to get your virutal assistant? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
     - title: +1 (973) 527-7140
