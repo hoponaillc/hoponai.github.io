@@ -1,9 +1,9 @@
 ---
 layout: home
 header:
-  title: Your virtual assistant to run your business in Social Platforms.
+  title: Your virtual assistant to help your business in Social Platforms.
   text: >
-    A simple solution to start and grow your business using Whatsapp for Business and Facebook Messenger for small and medium business!
+    An AI powered virtual assistant solution to start and grow your business using Whatsapp for Business and Facebook Messenger for small and medium business!
   action: # action button is optional
     label: Find Out More
     url: '#about'
