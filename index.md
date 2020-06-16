@@ -13,7 +13,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: We've got what you need!
-    text: Regardless of your business type to sell products or services, your virtual assistant has the skills and capabilities to automate your customer interaction.
+    text: Regardless of your business type to sell products or services, your virtual assistant has the skills and capabilities to automate your customer interaction 24/7.
     actions:
       - title: Get Started!
         url: '#page-top'
